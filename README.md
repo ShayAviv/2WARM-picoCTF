@@ -5,7 +5,7 @@ I used this site - https://www.rapidtables.com/convert/number/base-converter.htm
 
 
 
-![image](https://github.com/SiniKatan/2WARM-picoCTF/assets/153393575/1cf6079c-bba6-4d86-819e-f74234a7d29e)
+![image](https://github.com/SiniKatan/2WARM-picoCTF/assets/153393575/10d9dd80-2343-4011-84f5-1c0cf78a7ed4)
 
 
 if you want to solve it without a website 
